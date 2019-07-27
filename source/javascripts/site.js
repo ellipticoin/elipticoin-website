@@ -1,1 +1,5 @@
-// This is where it all goes :)
+WebFont.load({
+  google: {
+    families: ['Open Sans']
+  }
+});
